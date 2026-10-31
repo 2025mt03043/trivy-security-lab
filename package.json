@@ -1,0 +1,9 @@
+{
+  "name": "trivy-security-lab",
+  "version": "1.0.0",
+  "description": "Container supply-chain security demonstration",
+  "main": "app/index.js",
+  "scripts": {
+    "start": "node app/index.js"
+  }
+}
